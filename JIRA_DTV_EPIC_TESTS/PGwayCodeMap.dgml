@@ -1,173 +1,179 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DirectedGraph DataVirtualized="True" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
   <Nodes>
-    <Node Id="(@1 @17 Type=ProviderControllerBase Member=(Name=OverridePieResponse OverloadingParameters=[@22,(@11 Namespace=Ibis.DataTypes.Enumerations Type=InterfaceType),@27,(@11 @12 Type=QualSession),(@11 @12 Type=ServiceLocation),(@11 Namespace=Ibis.DataTypes.Enumerations Type=ServiceType),(@11 @12 Type=Product),(@11 @12 Type=PieResponse),(@5 @13 Type=(@14 @15 GenericArguments=[(@4 Namespace=Ibis.BusinessLayer.BaseClasses Type=ServiceAgentBase)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 @12 Type=PieProductGraph)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 Namespace=Ibis.DataTypes.Entities.BuyFlowEntities Type=QuestionGroup)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 @12 Type=SubOrder)]))]))" Category="CodeSchema_Method" Bounds="852.211666666667,895.360000000001,148.36,25.96" CodeSchemaProperty_IsProtected="True" CommonLabel="OverridePieResponse" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="OverridePieResponse" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/ProviderControllerBase.cs StartLineNumber=1061 StartCharacterOffset=0 EndLineNumber=1061 EndCharacterOffset=0)">
+    <Node Id="(@1 @17 Type=ProviderControllerBase Member=(Name=OverridePieResponse OverloadingParameters=[@22,(@11 Namespace=Ibis.DataTypes.Enumerations Type=InterfaceType),@27,(@11 @12 Type=QualSession),(@11 @12 Type=ServiceLocation),(@11 Namespace=Ibis.DataTypes.Enumerations Type=ServiceType),(@11 @12 Type=Product),(@11 @12 Type=PieResponse),(@5 @13 Type=(@14 @15 GenericArguments=[(@4 Namespace=Ibis.BusinessLayer.BaseClasses Type=ServiceAgentBase)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 @12 Type=PieProductGraph)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 Namespace=Ibis.DataTypes.Entities.BuyFlowEntities Type=QuestionGroup)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 @12 Type=SubOrder)]))]))" Category="CodeSchema_Method" Bounds="801.396709522634,947.877108323785,148.36,25.96" CodeSchemaProperty_IsProtected="True" CommonLabel="OverridePieResponse" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="OverridePieResponse" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/ProviderControllerBase.cs StartLineNumber=1061 StartCharacterOffset=0 EndLineNumber=1061 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
     </Node>
-    <Node Id="(@31 Namespace=Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC Type=ServiceAvailability Member=PopulateServices)" Category="CodeSchema_Method" Bounds="387.721666666667,391.72,125.34,25.96" CodeSchemaProperty_IsProtected="True" CommonLabel="PopulateServices" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" IsOverloaded="True" Label="PopulateServices" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/ProviderInterfaceServiceAgents/Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC/ServiceAvailability.cs StartLineNumber=2450 StartCharacterOffset=0 EndLineNumber=2450 EndCharacterOffset=0)">
+    <Node Id="(@31 Namespace=Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC Type=ServiceAvailability Member=PopulateServices)" Category="CodeSchema_Method" Bounds="439.650209245413,510.500919944644,125.34,25.96" CodeSchemaProperty_IsProtected="True" CommonLabel="PopulateServices" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" IsOverloaded="True" Label="PopulateServices" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/ProviderInterfaceServiceAgents/Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC/ServiceAvailability.cs StartLineNumber=2450 StartCharacterOffset=0 EndLineNumber=2450 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
     <Node Id="(@31 Namespace=Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC Type=VerifyProviderPricing Member=(Name=PrepareForQualification OverloadingParameters=[@27,(@5 @6 Type=Int32),(@5 @6 Type=Boolean ParamKind=Ref),(@5 @6 Type=String ParamKind=Ref),(@5 @6 Type=String ParamKind=Ref)]))" Category="CodeSchema_Method" Bounds="1173.975,0,160.706666666667,25.96" CodeSchemaProperty_IsProtected="True" CommonLabel="PrepareForQualification" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" IsOverloaded="True" Label="PrepareForQualification" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///C:/Source/AMP/SourceCode/ProviderInterfaceServiceAgents/Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC/VerifyProviderPricing.cs StartLineNumber=274 StartCharacterOffset=8 EndLineNumber=274 EndCharacterOffset=8)" />
-    <Node Id="@16" Category="CodeSchema_Method" Bounds="721.983333333333,335.76,182.816666666667,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="ProcessInitialSearchRequest" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="ProcessInitialSearchRequest" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.PresentationLayer.BuyFlow.DefaultControllers/FlowStateControllers/ProcessSearchController.cs StartLineNumber=95 StartCharacterOffset=0 EndLineNumber=95 EndCharacterOffset=0)">
+    <Node Id="@16" Category="CodeSchema_Method" Bounds="773.588770159525,326.319065206836,182.816666666667,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="ProcessInitialSearchRequest" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="ProcessInitialSearchRequest" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.PresentationLayer.BuyFlow.DefaultControllers/FlowStateControllers/ProcessSearchController.cs StartLineNumber=95 StartCharacterOffset=0 EndLineNumber=95 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
     </Node>
-    <Node Id="@19" Category="CodeSchema_Method" Bounds="567.508333333333,167.88,145.766666666667,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="ExecuteServiceAgent" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" IsOverloaded="True" Label="ExecuteServiceAgent" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/QualifyController.cs StartLineNumber=3267 StartCharacterOffset=0 EndLineNumber=3267 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-      <Category Ref="CurrentCallStackEntry" />
-    </Node>
-    <Node Id="@20" Category="CodeSchema_Method" Bounds="553.62,111.92,173.543333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="ServiceAgentWaitCallback" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="ServiceAgentWaitCallback" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer/BaseClasses/ControllerBase.cs StartLineNumber=1447 StartCharacterOffset=0 EndLineNumber=1447 EndCharacterOffset=0)">
+    <Node Id="@19" Category="CodeSchema_Method" Bounds="444.732784425025,210.710316802067,145.766666666667,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="ExecuteServiceAgent" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" IsOverloaded="True" Label="ExecuteServiceAgent" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/QualifyController.cs StartLineNumber=3267 StartCharacterOffset=0 EndLineNumber=3267 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@23" Category="CodeSchema_Method" Bounds="735.27,391.72,382.243333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Ibis‎.DataTypes‎.Interfaces‎.IPlatformServices‎.SearchQualifiedResults" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Ibis‎.DataTypes‎.Interfaces‎.IPlatformServices‎.SearchQualifiedResults" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.Business.WebServices/PlatformPartial.cs StartLineNumber=2305 StartCharacterOffset=0 EndLineNumber=2305 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@24" Category="CodeSchema_Method" Bounds="848.176666666667,447.68,156.43,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="SearchQualifiedResults" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="SearchQualifiedResults" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.Business.WebServices/Platform.cs StartLineNumber=153 StartCharacterOffset=0 EndLineNumber=153 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@26" Category="CodeSchema_Method" Bounds="848.176666666667,503.64,156.43,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="SearchQualifiedResults" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="SearchQualifiedResults" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.BuyFlow/PlatformManager.cs StartLineNumber=1162 StartCharacterOffset=0 EndLineNumber=1162 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@28" Category="CodeSchema_Method" Bounds="775.126666666667,111.92,76.53,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="Execute" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Execute" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.Services.BuyFlow/Actions/BaseAction.cs StartLineNumber=358 StartCharacterOffset=0 EndLineNumber=358 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@29" Category="CodeSchema_Method" Bounds="708.808333333333,839.400000000001,435.166666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Ibis‎.BusinessLayer‎.EngineInterfaces‎.IPieQualifyController‎.EndQueryProviders" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Ibis‎.BusinessLayer‎.EngineInterfaces‎.IPieQualifyController‎.EndQueryProviders" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/QualifyController.cs StartLineNumber=7291 StartCharacterOffset=0 EndLineNumber=7291 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@3" Category="CodeSchema_Method" Bounds="364.116666666667,335.76,162.55,25.96" CodeSchemaProperty_IsProtected="True" CommonLabel="QueryServiceAvailability" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="QueryServiceAvailability" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/AbstractClasses/ServiceAvailabilityAbstract.cs StartLineNumber=1311 StartCharacterOffset=0 EndLineNumber=1311 EndCharacterOffset=0)">
+    <Node Id="@20" Category="CodeSchema_Method" Bounds="549.663649975738,82.4788777283143,173.543333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="ServiceAgentWaitCallback" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="ServiceAgentWaitCallback" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer/BaseClasses/ControllerBase.cs StartLineNumber=1447 StartCharacterOffset=0 EndLineNumber=1447 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@30" Category="CodeSchema_Method" Bounds="571.726666666666,223.84,137.33,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="QueryServiceAgent" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="QueryServiceAgent" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/QualifyController.cs StartLineNumber=291 StartCharacterOffset=0 EndLineNumber=291 EndCharacterOffset=0)">
+    <Node Id="@23" Category="CodeSchema_Method" Bounds="775.066156600416,382.276398793022,382.243333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Ibis‎.DataTypes‎.Interfaces‎.IPlatformServices‎.SearchQualifiedResults" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Ibis‎.DataTypes‎.Interfaces‎.IPlatformServices‎.SearchQualifiedResults" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.Business.WebServices/PlatformPartial.cs StartLineNumber=2305 StartCharacterOffset=0 EndLineNumber=2305 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@24" Category="CodeSchema_Method" Bounds="930.430456385963,438.236399888222,156.43,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="SearchQualifiedResults" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="SearchQualifiedResults" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.Business.WebServices/Platform.cs StartLineNumber=153 StartCharacterOffset=0 EndLineNumber=153 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@26" Category="CodeSchema_Method" Bounds="856.268076632137,494.199114943593,156.43,25.9599999999996" CodeSchemaProperty_IsPublic="True" CommonLabel="SearchQualifiedResults" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="SearchQualifiedResults" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.BuyFlow/PlatformManager.cs StartLineNumber=1162 StartCharacterOffset=0 EndLineNumber=1162 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@28" Category="CodeSchema_Method" Bounds="773.206983312164,-69.4412262116383,76.53,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="Execute" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Execute" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.Services.BuyFlow/Actions/BaseAction.cs StartLineNumber=358 StartCharacterOffset=0 EndLineNumber=358 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@29" Category="CodeSchema_Method" Bounds="609.62493496959,873.405846134579,435.166666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Ibis‎.BusinessLayer‎.EngineInterfaces‎.IPieQualifyController‎.EndQueryProviders" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Ibis‎.BusinessLayer‎.EngineInterfaces‎.IPieQualifyController‎.EndQueryProviders" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/QualifyController.cs StartLineNumber=7291 StartCharacterOffset=0 EndLineNumber=7291 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@3" Category="CodeSchema_Method" Bounds="417.462623151307,398.678291016006,162.55,25.96" CodeSchemaProperty_IsProtected="True" CommonLabel="QueryServiceAvailability" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="QueryServiceAvailability" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/AbstractClasses/ServiceAvailabilityAbstract.cs StartLineNumber=1311 StartCharacterOffset=0 EndLineNumber=1311 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@32" Category="CodeSchema_Method" Bounds="718.771666666667,783.440000000001,415.24,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Ibis‎.BusinessLayer‎.EngineInterfaces‎.IPieQualifyController‎.QueryProviders" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Ibis‎.BusinessLayer‎.EngineInterfaces‎.IPieQualifyController‎.QueryProviders" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/QualifyController.cs StartLineNumber=7159 StartCharacterOffset=0 EndLineNumber=7159 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@34" Category="CodeSchema_Method" Bounds="777.76,279.8,71.2633333333333,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="Search" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Search" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.PresentationLayer.BuyFlow/ViewModels/FlowState/ProcessSearchViewModel.cs StartLineNumber=222 StartCharacterOffset=0 EndLineNumber=222 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@37" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="606.345,279.8,68.0933333333332,25.96" Label="Query" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/AbstractClasses/ServiceAvailabilityAbstract.cs StartLineNumber=2073 StartCharacterOffset=0 EndLineNumber=2073 EndCharacterOffset=0)">
+    <Node Id="@30" Category="CodeSchema_Method" Bounds="448.95111484393,266.670316822067,137.33,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="QueryServiceAgent" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="QueryServiceAgent" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/QualifyController.cs StartLineNumber=291 StartCharacterOffset=0 EndLineNumber=291 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@40" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="757.81,55.96,111.163333333333,25.96" Label="SearchInJsonP" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/DTV.WebServices.PartnerGateway/App_Code/BuyFlowApiDTV.cs StartLineNumber=121 StartCharacterOffset=0 EndLineNumber=121 EndCharacterOffset=0)">
+    <Node Id="@32" Category="CodeSchema_Method" Bounds="734.380802020312,783.083821264909,415.24,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Ibis‎.BusinessLayer‎.EngineInterfaces‎.IPieQualifyController‎.QueryProviders" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Ibis‎.BusinessLayer‎.EngineInterfaces‎.IPieQualifyController‎.QueryProviders" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/QualifyController.cs StartLineNumber=7159 StartCharacterOffset=0 EndLineNumber=7159 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
     </Node>
-    <Node Id="@43" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="754.053333333333,223.84,118.676666666667,25.96" Label="ProcessRequest" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.Services.BuyFlow/Actions/SearchAction.cs StartLineNumber=117 StartCharacterOffset=0 EndLineNumber=117 EndCharacterOffset=0)">
+    <Node Id="@34" Category="CodeSchema_Method" Bounds="809.794834171008,270.356390263644,71.2633333333333,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="Search" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Search" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.PresentationLayer.BuyFlow/ViewModels/FlowState/ProcessSearchViewModel.cs StartLineNumber=222 StartCharacterOffset=0 EndLineNumber=222 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
     </Node>
-    <Node Id="@45" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="157.038333333333,392.72,160.706666666667,25.96" Label="PrepareForQualification" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/ProviderInterfaceServiceAgents/Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC/ServiceAvailability.cs StartLineNumber=2146 StartCharacterOffset=0 EndLineNumber=2146 EndCharacterOffset=0)" UseManualLocation="True">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@47" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="544.038333333333,391.72,160.706666666667,25.96" Label="PrepareForQualification" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/ProviderInterfaceServiceAgents/Ibis.ProviderInterfaceServiceAgents.ExternalStaticProvider/ServiceAvailability.cs StartLineNumber=48 StartCharacterOffset=0 EndLineNumber=48 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@54" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="848.176666666667,559.6,156.43,25.96" Label="SearchQualifiedResults" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.BuyFlow/PlatformManager.cs StartLineNumber=1279 StartCharacterOffset=0 EndLineNumber=1279 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@56" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="859.98,727.48,132.823333333333,25.96" Label="GetAPIEngineData" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.QualificationInterfaceEngine/QualificationEngine.cs StartLineNumber=213 StartCharacterOffset=0 EndLineNumber=213 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@57" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="867.238333333333,671.52,118.306666666667,25.96" Label="DoQualification" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.QualificationInterfaceEngine/QualificationEngineInMemory.cs StartLineNumber=844 StartCharacterOffset=0 EndLineNumber=844 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@58" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="848.176666666667,615.56,156.43,25.96" Label="SearchQualifiedResults" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.QualificationInterfaceEngine/QualificationEngineInMemory.cs StartLineNumber=950 StartCharacterOffset=0 EndLineNumber=950 EndCharacterOffset=0)">
-      <Category Ref="CallStackEntry" />
-      <Category Ref="CodeSchema_SourceLocation" />
-    </Node>
-    <Node Id="@7" Category="CodeSchema_Method" Bounds="553.62,55.96,173.543333333334,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="ServiceAgentWaitCallback" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="ServiceAgentWaitCallback" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer/BaseClasses/ControllerBase.cs StartLineNumber=1430 StartCharacterOffset=0 EndLineNumber=1430 EndCharacterOffset=0)">
+    <Node Id="@37" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="481.898695429448,342.718289920806,68.0933333333332,25.96" Label="Query" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.ProviderInterfaceEngine/AbstractClasses/ServiceAvailabilityAbstract.cs StartLineNumber=2073 StartCharacterOffset=0 EndLineNumber=2073 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="@9" Category="CodeSchema_Method" Bounds="775.126666666667,167.88,76.53,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="Execute" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Execute" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.Services.BuyFlow/Actions/BaseAction.cs StartLineNumber=171 StartCharacterOffset=0 EndLineNumber=171 EndCharacterOffset=0)">
+    <Node Id="@40" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="680.890392631833,-125.401226231638,111.163333333333,25.96" Label="SearchInJsonP" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/DTV.WebServices.PartnerGateway/App_Code/BuyFlowApiDTV.cs StartLineNumber=121 StartCharacterOffset=0 EndLineNumber=121 EndCharacterOffset=0)">
       <Category Ref="CallStackEntry" />
       <Category Ref="CodeSchema_SourceLocation" />
     </Node>
-    <Node Id="ExternalCodeRootNode" Category="ExternalCallStackEntry" Bounds="766.898333333333,0,92.9866666666667,25.96" Label="External Code">
+    <Node Id="@43" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="769.854174005606,214.38898641025,118.676666666667,25.96" Label="ProcessRequest" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.Services.BuyFlow/Actions/SearchAction.cs StartLineNumber=117 StartCharacterOffset=0 EndLineNumber=117 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@45" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="248.945392647348,454.548680458445,160.706666666667,25.96" Label="PrepareForQualification" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/ProviderInterfaceServiceAgents/Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC/ServiceAvailability.cs StartLineNumber=2146 StartCharacterOffset=0 EndLineNumber=2146 EndCharacterOffset=0)" UseManualLocation="True">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@47" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="594.992059314015,454.548680458445,160.706666666667,25.96" Label="PrepareForQualification" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/ProviderInterfaceServiceAgents/Ibis.ProviderInterfaceServiceAgents.ExternalStaticProvider/ServiceAvailability.cs StartLineNumber=48 StartCharacterOffset=0 EndLineNumber=48 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@54" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="899.455830357674,550.149125497052,156.430000000001,25.96" Label="SearchQualifiedResults" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.BuyFlow/PlatformManager.cs StartLineNumber=1279 StartCharacterOffset=0 EndLineNumber=1279 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@56" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="811.458633704851,727.123821244909,132.823333333333,25.96" Label="GetAPIEngineData" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.QualificationInterfaceEngine/QualificationEngine.cs StartLineNumber=213 StartCharacterOffset=0 EndLineNumber=213 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@57" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="874.516722963349,669.942871169713,118.306666666667,25.96" Label="DoQualification" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.QualificationInterfaceEngine/QualificationEngineInMemory.cs StartLineNumber=844 StartCharacterOffset=0 EndLineNumber=844 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@58" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="825.678173569693,606.082477329519,156.43,25.96" Label="SearchQualifiedResults" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer.QualificationInterfaceEngine/QualificationEngineInMemory.cs StartLineNumber=950 StartCharacterOffset=0 EndLineNumber=950 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@7" Category="CodeSchema_Method" Bounds="549.663649975737,26.51887387547,173.543333333334,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="ServiceAgentWaitCallback" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="ServiceAgentWaitCallback" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.BusinessLayer/BaseClasses/ControllerBase.cs StartLineNumber=1430 StartCharacterOffset=0 EndLineNumber=1430 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+      <Category Ref="CurrentCallStackEntry" />
+    </Node>
+    <Node Id="@9" Category="CodeSchema_Method" Bounds="773.206983641754,158.439064692818,76.53,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="Execute" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="Execute" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///c:/Source/AMP/SourceCode/Ibis.Services.BuyFlow/Actions/BaseAction.cs StartLineNumber=171 StartCharacterOffset=0 EndLineNumber=171 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="ExternalCodeRootNode" Category="ExternalCallStackEntry" Bounds="635.832725824103,-181.363440907221,92.9866666666667,25.96" Label="External Code">
       <Category Ref="CallStackEntry" />
       <Category Ref="CurrentCallStackEntry" />
     </Node>
-    <Node Id="ExternalStaticProvider" Category="Comment" Bounds="556.865,335.76,135.053333333333,25.96" />
-    <Node Id="Verizon" Category="Comment" Bounds="98,336.76,170.783333333333,25.96" Label="Verizon in ServiceAvailability" UseManualLocation="True" />
+    <Node Id="ExternalStaticProvider" Category="Comment" Bounds="610.012722887221,395.536809710184,135.053333333333,25.96" />
+    <Node Id="Ibis.BusinessLayer.PIEQualifyController" Bounds="394.737384425025,170.710316782067,245.757466666667,141.92000006" Group="Expanded" Label="Ibis.BusinessLayer.PIE QualifyController" />
+    <Node Id="Verizon" Category="Comment" Bounds="216.679189854783,395.510024636942,170.783333333333,25.96" Label="Verizon in ServiceAvailability" UseManualLocation="True" />
+    <Node Id="c9a675ad-b5dd-4f75-9c4c-71b04ee150ae" Bounds="529.663649975737,-13.48122612453,213.543333333334,141.920203852844" Group="Expanded" Label="Ibis.BusinessLayer.ControllerBase" />
   </Nodes>
   <Links>
-    <Link Source="@16" Target="@23" Category="CallStackDirectCall" Bounds="839.602172851563,361.720001220703,52.5137939453125,26.0059509277344" />
-    <Link Source="@19" Target="@30" Category="CallStackDirectCall" Bounds="640.391662597656,193.839996337891,0,21" Weight="1">
+    <Link Source="@16" Target="@23" Category="CallStackDirectCall" Bounds="888.481643045655,352.279114943592,46.3954980134704,25.6459955077719" />
+    <Link Source="@19" Target="@30" Category="CallStackDirectCall" Bounds="517.616088867188,236.670318603516,0,21" Weight="1">
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="@20" Target="@19" Category="CallStackDirectCall" Bounds="640.391662597656,137.880004882813,0,21">
+    <Link Source="@20" Target="@19" Category="CallStackDirectCall" Bounds="543.476679781698,108.223490557542,84.8579846459845,103.706127198016">
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="@23" Target="@24" Category="CallStackDirectCall" Bounds="926.391662597656,417.679992675781,0,21">
+    <Link Source="@23" Target="@24" Category="CallStackDirectCall" Bounds="976.093340199889,408.239114943592,17.3403381798588,22.832653631125">
       <Category Ref="CodeSchema_Calls" />
     </Link>
-    <Link Source="@24" Target="@26" Category="CallStackDirectCall" Bounds="926.391662597656,473.640014648438,0,21">
+    <Link Source="@24" Target="@26" Category="CallStackDirectCall" Bounds="958.893206818765,464.199114943592,32.6186877217442,24.5832063454842">
       <Category Ref="CodeSchema_Calls" />
     </Link>
-    <Link Source="@26" Target="@54" Category="CallStackDirectCall" Bounds="926.391662597656,529.599975585938,0,21" />
-    <Link Source="@28" Target="@9" Category="CallStackDirectCall" Bounds="813.391662597656,137.880004882813,0,21">
+    <Link Source="@26" Target="@54" Category="CallStackDirectCall" Bounds="944.487056170065,520.159114943592,17.627602793365,22.8715266150223" />
+    <Link Source="@28" Target="@9" Category="CallStackDirectCall" Bounds="811.471478987356,-43.481185056408,0,192.9203">
       <Category Ref="CodeSchema_Calls" />
     </Link>
-    <Link Source="@29" Target="(@1 @17 Type=ProviderControllerBase Member=(Name=OverridePieResponse OverloadingParameters=[@22,(@11 Namespace=Ibis.DataTypes.Enumerations Type=InterfaceType),@27,(@11 @12 Type=QualSession),(@11 @12 Type=ServiceLocation),(@11 Namespace=Ibis.DataTypes.Enumerations Type=ServiceType),(@11 @12 Type=Product),(@11 @12 Type=PieResponse),(@5 @13 Type=(@14 @15 GenericArguments=[(@4 Namespace=Ibis.BusinessLayer.BaseClasses Type=ServiceAgentBase)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 @12 Type=PieProductGraph)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 Namespace=Ibis.DataTypes.Entities.BuyFlowEntities Type=QuestionGroup)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 @12 Type=SubOrder)]))]))" Category="CallStackDirectCall" Bounds="926.391662597656,865.359985351563,0,21">
+    <Link Source="@29" Target="(@1 @17 Type=ProviderControllerBase Member=(Name=OverridePieResponse OverloadingParameters=[@22,(@11 Namespace=Ibis.DataTypes.Enumerations Type=InterfaceType),@27,(@11 @12 Type=QualSession),(@11 @12 Type=ServiceLocation),(@11 Namespace=Ibis.DataTypes.Enumerations Type=ServiceType),(@11 @12 Type=Product),(@11 @12 Type=PieResponse),(@5 @13 Type=(@14 @15 GenericArguments=[(@4 Namespace=Ibis.BusinessLayer.BaseClasses Type=ServiceAgentBase)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 @12 Type=PieProductGraph)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 Namespace=Ibis.DataTypes.Entities.BuyFlowEntities Type=QuestionGroup)])),(@5 @13 Type=(@14 @15 GenericArguments=[(@11 @12 Type=SubOrder)]))]))" Category="CallStackDirectCall" Bounds="835.634214998383,899.363459655123,26.6067860530584,40.9623313515217">
       <Category Ref="CodeSchema_Calls" />
     </Link>
-    <Link Source="@3" Target="(@31 Namespace=Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC Type=ServiceAvailability Member=PopulateServices)" Category="CallStackDirectCall" Bounds="446.551429213947,361.719951220703,1.87953084498747,21.0358110039166">
+    <Link Source="@3" Target="(@31 Namespace=Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC Type=ServiceAvailability Member=PopulateServices)" Category="CallStackDirectCall" Bounds="499.195596650796,424.548680458445,2.43204572973673,76.9644900388682">
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="@3" Target="@45" Category="CallStackDirectCall" Bounds="293.470862491471,361.719951220703,104.522018697499,28.6230009637455" />
-    <Link Source="@3" Target="@47" Category="CallStackDirectCall" Bounds="486.910718908345,361.719951220703,87.3718950543113,27.3148697338005" />
-    <Link Source="@30" Target="@37" Category="CallStackDirectCall" Bounds="640.391662597656,249.800003051758,0,20.9999847412109">
+    <Link Source="@3" Target="@45" Category="CallStackDirectCall" Bounds="377.157620933804,424.548680458445,82.3151349582778,27.1782666858725" />
+    <Link Source="@3" Target="@47" Category="CallStackDirectCall" Bounds="539.738762563514,424.548680458445,86.0739119555718,27.2807954416641" />
+    <Link Source="@30" Target="@37" Category="CallStackDirectCall" Bounds="516.371618481473,292.628480458528,0.943808880298434,41.0025833380908">
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="@32" Target="@29" Category="CallStackDirectCall" Bounds="926.391662597656,809.400024414063,0,21" />
-    <Link Source="@34" Target="@16" Category="CallStackDirectCall" Bounds="813.391662597656,305.760009765625,0,21" />
-    <Link Source="@37" Target="@3" Category="CallStackDirectCall" Bounds="499.273010253906,302.550506591797,107.071960449219,30.7269287109375">
+    <Link Source="@32" Target="@29" Category="CallStackDirectCall" Bounds="850.774462974437,809.045688040525,74.7277520958233,58.7928055445351" />
+    <Link Source="@34" Target="@16" Category="CallStackDirectCall" Bounds="850.011439763998,296.319114943592,7.49836817788514,21.5019156968003" />
+    <Link Source="@37" Target="@3" Category="CallStackDirectCall" Bounds="505.374583998181,368.588680458445,6.52934876903373,21.3920370502325">
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="@40" Target="@28" Category="CallStackDirectCall" Bounds="813.391662597656,81.9199981689453,0,21" />
-    <Link Source="@43" Target="@34" Category="CallStackDirectCall" Bounds="813.391662597656,249.800003051758,0,20.9999847412109" />
-    <Link Source="@54" Target="@58" Category="CallStackDirectCall" Bounds="926.391662597656,585.559997558594,0,21" />
-    <Link Source="@56" Target="@32" Category="CallStackDirectCall" Bounds="926.391662597656,753.440002441406,0,21" />
-    <Link Source="@57" Target="@56" Category="CallStackDirectCall" Bounds="926.391662597656,697.47998046875,0,21" />
-    <Link Source="@58" Target="@57" Category="CallStackDirectCall" Bounds="926.391662597656,641.52001953125,0,21" />
-    <Link Source="@7" Target="@20" Category="CallStackDirectCall" Bounds="640.391662597656,81.9199981689453,0,21">
+    <Link Source="@40" Target="@28" Category="CallStackDirectCall" Bounds="753.867870762372,-99.4411850564079,32.9939007200921,24.6178650373936" />
+    <Link Source="@43" Target="@34" Category="CallStackDirectCall" Bounds="832.928285844885,240.359114943592,6.24066672789036,21.3611247579859" />
+    <Link Source="@54" Target="@58" Category="CallStackDirectCall" Bounds="928.099410219044,576.119114943592,32.3944158234281,24.5623147263682" />
+    <Link Source="@56" Target="@32" Category="CallStackDirectCall" Bounds="892.744647898724,753.085688040525,27.5990900851875,24.0827165179292" />
+    <Link Source="@57" Target="@56" Category="CallStackDirectCall" Bounds="896.832005835142,695.992689391638,24.1131407892758,24.6937830259893" />
+    <Link Source="@58" Target="@57" Category="CallStackDirectCall" Bounds="909.863159423148,632.079114943592,13.8981988012813,29.7971763191822" />
+    <Link Source="@7" Target="@20" Category="CallStackDirectCall" Bounds="636.434812320689,52.4789149435921,0,21.0000038528442">
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="@9" Target="@43" Category="CallStackDirectCall" Bounds="813.391662597656,193.839996337891,0,21" />
-    <Link Source="ExternalCodeRootNode" Target="@40" Category="CallStackIndirectCall" Bounds="813.391662597656,25.9599990844727,0,21" />
-    <Link Source="ExternalCodeRootNode" Target="@7" Category="CallStackIndirectCall" Bounds="689.082397460938,25.9599990844727,84.1817016601563,27.2300910949707">
+    <Link Source="@9" Target="@43" Category="CallStackDirectCall" Bounds="815.568828749779,184.399114943592,6.76077001978319,21.4174527304428" />
+    <Link Source="ExternalCodeRootNode" Target="@40" Category="CallStackIndirectCall" Bounds="694.868129600929,-155.401185056408,22.7795749357443,23.533321337097" />
+    <Link Source="ExternalCodeRootNode" Target="@7" Category="CallStackIndirectCall" Bounds="647.433535143151,-105.183427561415,35.1348909147561,173.099425223768">
       <Category Ref="CurrentCallStackCall" />
     </Link>
-    <Link Source="ExternalStaticProvider" Target="@47" Bounds="624.391662597656,361.720001220703,0,21" />
-    <Link Source="Verizon" Target="@45" Bounds="195.917015483016,362.719951220703,22.6997671631768,23.5237266745942" />
+    <Link Source="ExternalStaticProvider" Target="@47" Bounds="676.180013179047,421.487362998794,0.914167915273765,24.067802638682" />
+    <Link Source="Ibis.BusinessLayer.PIEQualifyController" Target="@19" Category="Contains" />
+    <Link Source="Ibis.BusinessLayer.PIEQualifyController" Target="@30" Category="Contains" />
+    <Link Source="Verizon" Target="@45" Bounds="308.096120562521,421.487362998794,11.4605437504513,24.8864949692835" />
+    <Link Source="c9a675ad-b5dd-4f75-9c4c-71b04ee150ae" Target="@20" Category="Contains" />
+    <Link Source="c9a675ad-b5dd-4f75-9c4c-71b04ee150ae" Target="@7" Category="Contains" />
   </Links>
   <Categories>
     <Category Id="BaseCustomContent" CanBeDataDriven="True" IsProviderRoot="False" />
@@ -180,6 +186,7 @@
     <Category Id="CodeSchema_Method" Label="Method" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="Methods" />
     <Category Id="CodeSchema_SourceLocation" Label="Source Location" Icon="File" />
     <Category Id="Comment" Label="Comment" Description="Represents a user defined comment on the diagram" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Comments" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
     <Category Id="CurrentCallStackCall" Label="Current Call Stack call" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Current Call Stack call" OutgoingActionLabel="Current Call Stack call" />
     <Category Id="CurrentCallStackEntry" Label="Current Call Stack Entry" BasedOn="BaseCustomContent" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Current Call Stack Entry" />
     <Category Id="ExternalCallStackEntry" Label="External Call Stack Entry" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="External Call Stack Entry" />
@@ -197,9 +204,11 @@
     <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
     <Property Id="Expression" DataType="System.String" />
     <Property Id="FunctionTypeFlags" Label="FunctionTypeFlags" Description="FunctionTypeFlags" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
     <Property Id="GroupLabel" DataType="System.String" />
-    <Property Id="Icon" DataType="System.String" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
     <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
     <Property Id="IsEnabled" DataType="System.Boolean" />
     <Property Id="IsOverloaded" Label="IsOverloaded" Description="IsOverloaded" DataType="System.Boolean" />
     <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
@@ -485,16 +494,27 @@
     </Style>
   </Styles>
   <Paths>
-    <Path Id="06f128d1-2d0c-4eb9-bebb-e6729cdaf958.OutputPathUri" Value="file:///C:/Source/AMP/SourceCode/Ibis.BusinessLayer.BuyFlow/bin/Debug/Ibis.BusinessLayer.BuyFlow.dll" />
-    <Path Id="28594003-3d8c-4841-bd9c-727a772af457.OutputPathUri" Value="file:///C:/Source/AMP/SourceCode/Service Agents/bin/Ibis.PresentationLayer.BuyFlow.DefaultControllers.dll" />
-    <Path Id="2af393e6-98cc-4da1-a5ff-5c4d6886acae.OutputPathUri" Value="file:///C:/Source/AMP/SourceCode/Service Agents/bin/Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC.dll" />
-    <Path Id="376e425c-012f-4f87-b311-0b2a696f13f2.OutputPathUri" Value="file:///C:/Source/AMP/SourceCode/Ibis.Business.WebServices/bin/Debug/Ibis.Business.WebServices.dll" />
-    <Path Id="3c19cd27-7c41-4768-bc63-2b379f8b1c95.OutputPathUri" Value="file:///C:/Source/AMP/SourceCode/Ibis.DataTypes/bin/Debug/Ibis.DataTypes.dll" />
-    <Path Id="736a4a9d-2e42-4232-b346-2ff0ab68badb.OutputPathUri" Value="file:///C:/Source/AMP/SourceCode/Service Agents/bin/Ibis.BusinessLayer.ProviderInterfaceEngine.dll" />
-    <Path Id="91b723b8-5204-42b7-9899-2ff789574108.OutputPathUri" Value="file:///C:/Source/AMP/SourceCode/Ibis.BusinessLayer/bin/Debug/Ibis.BusinessLayer.dll" />
-    <Path Id="d0b0564a-6fab-400f-8fc3-d99c1baa1035.OutputPathUri" Value="file:///C:/Source/AMP/SourceCode/Ibis.Services.BuyFlow/bin/Debug/Ibis.Services.BuyFlow.dll" />
-    <Path Id="e682b8d6-cfab-4a2a-8ac0-849a279ba8f1.OutputPathUri" Value="file:///C:/Source/AMP/SourceCode/Service Agents/bin/Ibis.PresentationLayer.BuyFlow.dll" />
+    <Path Id="06f128d1-2d0c-4eb9-bebb-e6729cdaf958.OutputPath" Value="C:\source\AMP\SourceCode\Ibis.BusinessLayer.BuyFlow\bin\Debug\Ibis.BusinessLayer.BuyFlow.dll" />
+    <Path Id="06f128d1-2d0c-4eb9-bebb-e6729cdaf958.OutputPathUri" Value="file:///C:/source/AMP/SourceCode/Ibis.BusinessLayer.BuyFlow/bin/Debug/Ibis.BusinessLayer.BuyFlow.dll" />
+    <Path Id="28594003-3d8c-4841-bd9c-727a772af457.OutputPath" Value="C:\source\AMP\SourceCode\Service Agents\bin\Ibis.PresentationLayer.BuyFlow.DefaultControllers.dll" />
+    <Path Id="28594003-3d8c-4841-bd9c-727a772af457.OutputPathUri" Value="file:///C:/source/AMP/SourceCode/Service Agents/bin/Ibis.PresentationLayer.BuyFlow.DefaultControllers.dll" />
+    <Path Id="2af393e6-98cc-4da1-a5ff-5c4d6886acae.OutputPath" Value="C:\source\AMP\SourceCode\Service Agents\bin\Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC.dll" />
+    <Path Id="2af393e6-98cc-4da1-a5ff-5c4d6886acae.OutputPathUri" Value="file:///C:/source/AMP/SourceCode/Service Agents/bin/Ibis.ProviderInterfaceServiceAgents.VerizonRocsRTCC.dll" />
+    <Path Id="376e425c-012f-4f87-b311-0b2a696f13f2.OutputPath" Value="C:\source\AMP\SourceCode\Ibis.Business.WebServices\bin\Debug\Ibis.Business.WebServices.dll" />
+    <Path Id="376e425c-012f-4f87-b311-0b2a696f13f2.OutputPathUri" Value="file:///C:/source/AMP/SourceCode/Ibis.Business.WebServices/bin/Debug/Ibis.Business.WebServices.dll" />
+    <Path Id="3c19cd27-7c41-4768-bc63-2b379f8b1c95.OutputPath" Value="C:\source\AMP\SourceCode\Ibis.DataTypes\bin\Debug\Ibis.DataTypes.dll" />
+    <Path Id="3c19cd27-7c41-4768-bc63-2b379f8b1c95.OutputPathUri" Value="file:///C:/source/AMP/SourceCode/Ibis.DataTypes/bin/Debug/Ibis.DataTypes.dll" />
+    <Path Id="736a4a9d-2e42-4232-b346-2ff0ab68badb.OutputPath" Value="C:\source\AMP\SourceCode\Service Agents\bin\Ibis.BusinessLayer.ProviderInterfaceEngine.dll" />
+    <Path Id="736a4a9d-2e42-4232-b346-2ff0ab68badb.OutputPathUri" Value="file:///C:/source/AMP/SourceCode/Service Agents/bin/Ibis.BusinessLayer.ProviderInterfaceEngine.dll" />
+    <Path Id="91b723b8-5204-42b7-9899-2ff789574108.OutputPath" Value="C:\source\AMP\SourceCode\Ibis.BusinessLayer\bin\Debug\Ibis.BusinessLayer.dll" />
+    <Path Id="91b723b8-5204-42b7-9899-2ff789574108.OutputPathUri" Value="file:///C:/source/AMP/SourceCode/Ibis.BusinessLayer/bin/Debug/Ibis.BusinessLayer.dll" />
+    <Path Id="d0b0564a-6fab-400f-8fc3-d99c1baa1035.OutputPath" Value="C:\source\AMP\SourceCode\Ibis.Services.BuyFlow\bin\Debug\Ibis.Services.BuyFlow.dll" />
+    <Path Id="d0b0564a-6fab-400f-8fc3-d99c1baa1035.OutputPathUri" Value="file:///C:/source/AMP/SourceCode/Ibis.Services.BuyFlow/bin/Debug/Ibis.Services.BuyFlow.dll" />
+    <Path Id="e682b8d6-cfab-4a2a-8ac0-849a279ba8f1.OutputPath" Value="C:\source\AMP\SourceCode\Service Agents\bin\Ibis.PresentationLayer.BuyFlow.dll" />
+    <Path Id="e682b8d6-cfab-4a2a-8ac0-849a279ba8f1.OutputPathUri" Value="file:///C:/source/AMP/SourceCode/Service Agents/bin/Ibis.PresentationLayer.BuyFlow.dll" />
+    <Path Id="FxRoot" Value="C:\Windows\Microsoft.NET\Framework" />
     <Path Id="FxRootUri" Value="file:///C:/Windows/Microsoft.NET/Framework" />
-    <Path Id="VsSolutionUri" Value="file:///C:/Source/AMP/SourceCode" />
+    <Path Id="VsSolution" Value="C:\source\AMP\SourceCode" />
+    <Path Id="VsSolutionUri" Value="file:///C:/source/AMP/SourceCode" />
   </Paths>
 </DirectedGraph>
